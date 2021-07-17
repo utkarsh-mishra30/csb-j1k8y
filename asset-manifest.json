@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/css/main.9976582b.chunk.css",
+    "main.js": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/main.e4f36b26.chunk.js",
+    "main.js.map": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/main.e4f36b26.chunk.js.map",
+    "runtime-main.js": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/runtime-main.9921cd60.js",
+    "runtime-main.js.map": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/runtime-main.9921cd60.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://utkarsh-mishra30.github.io/csb-j1k8y/index.html",
+    "static/css/main.9976582b.chunk.css.map": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/css/main.9976582b.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://utkarsh-mishra30.github.io/csb-j1k8y/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9921cd60.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.9976582b.chunk.css",
+    "static/js/main.e4f36b26.chunk.js"
+  ]
+}
